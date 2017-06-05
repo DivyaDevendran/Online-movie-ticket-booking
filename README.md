@@ -1,5 +1,3 @@
-# Online-movie-ticket-booking
-
 Online Movie Ticket Booking
 =============================
 
